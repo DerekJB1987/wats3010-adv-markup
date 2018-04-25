@@ -1,1 +1,7 @@
 /* Styles for the Advanced Markup assignment. */
+
+nav ul li {
+    display: inline;
+    border: solid 2px black;
+    padding: 10px;
+}
