@@ -4,4 +4,5 @@ nav ul li {
     display: inline;
     border: solid 2px black;
     padding: 10px;
+    background: pink;
 }
