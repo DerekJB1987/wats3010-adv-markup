@@ -4,5 +4,9 @@ nav ul li {
     display: inline;
     border: solid 2px black;
     padding: 10px;
-    background: gray;
+}
+.active {
+    font-weight: 800;
+    background: #cccccc;
+    padding: 10px;
 }
