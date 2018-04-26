@@ -1,5 +1,6 @@
 /* Styles for the Advanced Markup assignment. */
 
+/*navigation styles*/
 nav ul li {
     display: inline;
     border: solid 2px black;
@@ -9,4 +10,9 @@ nav ul li {
     font-weight: 800;
     background: #cccccc;
     padding: 10px;
+}
+/*Table Styles*/
+table {
+    width: 150%;
+    text-align: left;
 }
