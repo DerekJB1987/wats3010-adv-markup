@@ -16,3 +16,33 @@ table {
     width: 100%;
     text-align: left;
 }
+
+/* Sidebar Styles */
+#sidebar {
+    float:right;
+    width: 50%;
+    background: tan;
+    margin: 25px;
+    padding: 5px;  
+}
+/* About Page Styles */
+dt{
+    font-weight:900;
+}
+.bio-photo {
+    width: 15%;
+    float: left;
+    background: gray
+}
+.bio-photo img {
+    width:75%;
+    height:auto;
+    margin:15px;
+    padding:10px;
+}
+/* Index.html Styles */
+
+.poem {
+    list-style-type:none;
+    
+}
