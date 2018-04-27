@@ -16,7 +16,11 @@ table {
     width: 100%;
     text-align: left;
 }
-
+tbody {
+    height: 300px;
+    overflow-y: scroll;
+    display: block;
+}
 /* About Page Styles */
 dt{
     font-weight:900;
