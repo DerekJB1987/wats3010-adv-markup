@@ -46,8 +46,19 @@ aside {
     margin: 25px;
     padding: 5px; 
 }
+ul li {
+    list-style-type:none;    
+}
 /* Index.html Styles */
-
 .poem {
     list-style-type:none;    
+}
+/* Footer Styles */
+footer {
+    clear:both;
+    text-align: center;
+    border-top: 2px solid black;
+}
+.bottom-nav li {
+    bottom:0;
 }
