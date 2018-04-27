@@ -17,32 +17,37 @@ table {
     text-align: left;
 }
 
-/* Sidebar Styles */
-#sidebar {
-    float:right;
-    width: 50%;
-    background: tan;
-    margin: 25px;
-    padding: 5px;  
-}
 /* About Page Styles */
 dt{
     font-weight:900;
 }
+#content {
+    float:right;
+    width: 70%;
+}
+aside {
+    float:left;
+}
 .bio-photo {
-    width: 15%;
-    float: left;
+    width: 30%;
+    float: right;
     background: gray
 }
 .bio-photo img {
-    width:75%;
+    width:50%;
     height:auto;
-    margin:15px;
-    padding:10px;
+    margin:10px;
+    padding:5px;
+}
+#sidebar {
+    float: left;
+    width: 25%;
+    background: tan;
+    margin: 25px;
+    padding: 5px; 
 }
 /* Index.html Styles */
 
 .poem {
-    list-style-type:none;
-    
+    list-style-type:none;    
 }
