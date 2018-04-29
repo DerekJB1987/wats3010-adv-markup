@@ -1,5 +1,10 @@
 /* Styles for the Advanced Markup assignment. */
 
+/* Master HTML docutment formats */
+html {
+    background-color:#595959;
+}
+
 /*navigation styles*/
 nav ul li {
     display: inline;
@@ -15,6 +20,10 @@ nav ul li {
 table {
     width: 100%;
     text-align: left;
+    vertical-align:bottom;
+}
+.table-id {
+    text-align:left;   
 }
 tbody {
     height: 300px;
