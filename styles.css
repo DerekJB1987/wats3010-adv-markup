@@ -2,7 +2,7 @@
 
 /* Master HTML docutment formats */
 html {
-    background-color:#595959;
+    background-color:#666666;
 }
 
 /*navigation styles*/
@@ -13,9 +13,10 @@ nav ul li {
 }
 .active {
     font-weight: 800;
-    background: #cccccc;
+    background-color: #999999;
     padding: 10px;
 }
+
 /*Table Styles*/
 table {
     width: 100%;
@@ -30,6 +31,7 @@ tbody {
     overflow-y: scroll;
     display: block;
 }
+
 /* About Page Styles */
 dt{
     font-weight:900;
@@ -55,17 +57,19 @@ aside {
 #sidebar {
     float: left;
     width: 25%;
-    background: tan;
+    background-color:#cc00cc;
     margin: 25px;
     padding: 5px; 
 }
 ul li {
     list-style-type:none;    
 }
+
 /* Index.html Styles */
 .poem {
     list-style-type:none;    
 }
+
 /* Footer Styles */
 footer {
     clear:both;
